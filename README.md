@@ -1,2 +1,3 @@
 # AppScolaire
-application de gestion d'un établissement  scolaire
+
+application de gestion d'un établissement scolaire
