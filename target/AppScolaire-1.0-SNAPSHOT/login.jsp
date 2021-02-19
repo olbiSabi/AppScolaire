@@ -7,7 +7,8 @@
         <!-- css -->
         <link rel="stylesheet"  href="bootstrap/css/bootstrap-grid.min.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <!-- script -->
+        <script type="text/javascript" src="javaScript/app.js"></script>
         
         <title>page authentification</title>
     </head>
@@ -29,9 +30,6 @@
                 </form>
             </div>
         </div>
-    
-        <!-- script -->
-        <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="javaScript/app.js"></script>
     </body>
+
 </html>

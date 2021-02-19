@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AppScolaire:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>AppScolaire</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="AppScolaire-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="AppScolaire:war exploded" />
+    </root>
+  </artifact>
+</component>
