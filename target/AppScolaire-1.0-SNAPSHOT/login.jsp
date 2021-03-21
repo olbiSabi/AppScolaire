@@ -5,8 +5,8 @@
         <meta charset="utf-8" name="sabi">
         <!-- css -->
         <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="bootstrap/css/login.css">
-        <%--<link rel="stylesheet" type="text/css" href="bootstrap/css/style.css">--%>
+<%--        <link rel="stylesheet" type="text/css" href="bootstrap/css/login.css">--%>
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/style.css">
         <title>page authentification</title>
     </head>
     <body>
@@ -36,5 +36,6 @@
                     </div>
                 </div>
             </div>
+        </div>
     </body>
 </html>
